@@ -1,0 +1,2 @@
+# exesetup
+quran
